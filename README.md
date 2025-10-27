@@ -6,7 +6,7 @@
 I'm a passionate **Software Developer & Designer** with a strong foundation in **Information Technology**.  
 I specialize in building **innovative applications and systems** while seamlessly blending **technical expertise** with **creative design**.  
 
-```python
+python
 class Developer:
     def __init__(self):
         self.name = "Lema Al-Raei"
