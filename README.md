@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Leema! (aka leema-dev)
+# Hi there 👋, I'm Leema!
 
 Welcome to my GitHub profile! 😎  
 I'm passionate about **Full Stack Development** and **Mobile App Development**, always exploring creative ways to build better digital experiences.
